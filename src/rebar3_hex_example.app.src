@@ -1,0 +1,12 @@
+{application, rebar3_hex_example,
+ [{description, "Failing example for rebar3_hex."},
+  {vsn, "0.1.0"},
+  {registered, []},
+  {applications, [kernel, stdlib]},
+  {env, []},
+  {modules, [rebar3_hex_example]},
+
+  {maintainers, ["Eric Bailey"]},
+  {licenses, ["WTFPL"]},
+  {links, [{"GitHub", "https://github.com/yurrriq/rebar3_hex_example"}]}
+ ]}.

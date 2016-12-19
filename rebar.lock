@@ -1,0 +1,8 @@
+{"1.1.0",
+[{<<"elli">>,{pkg,<<"elli">>,<<"2.0.0">>},0},
+ {<<"elli_date">>,{pkg,<<"elli_date">>,<<"1.1.1">>},0}]}.
+[
+{pkg_hash,[
+ {<<"elli">>, <<"A90A9D7EE4C1DE32A6896766822E1447184D1BCD9CD9EF5277300C86A714AFCF">>},
+ {<<"elli_date">>, <<"FA49D480F29698DCCFBAFD709061AD96011E06C3F571CE82FA5B38259AA2B588">>}]}
+].
